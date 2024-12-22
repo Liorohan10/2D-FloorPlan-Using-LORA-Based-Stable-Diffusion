@@ -1,0 +1,15 @@
+accelerate
+datasets
+diffusers
+Flask
+Flask_SocketIO
+lpips
+matplotlib
+numpy
+pandas
+peft
+Pillow
+Requests
+scikit-image
+tqdm
+wandb
