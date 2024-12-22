@@ -99,7 +99,7 @@ After this, you can train your own LoRA module on the provided floor plan datase
         ├───arguments.py                     #parameters
         ├───lora_training.py                 #training script
         ├───preprocessing.py                 #dataset preprocessing
-        └───run_script.py 
-                      #run file
+        └───run_script.py                    #run file
+                      
 <p align="right">(<a href="#top">back to top</a>)</p>
 
